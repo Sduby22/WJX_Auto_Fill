@@ -57,6 +57,7 @@ if __name__ == "__main__":
     with open(current_path+'/config.json', "r", encoding='utf8') as f:
         config = ujson.load(f)
 
+    print('input your url:')
     url = input()
 
     # Open Website
