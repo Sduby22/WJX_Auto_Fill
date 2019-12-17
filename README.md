@@ -21,6 +21,7 @@ Auto fill your personal info to wjx.cn using selenium.webdriver
 `key_words`: If the one of the key_words appears in the title, we determine that the corresponding content(key) should be the return value of the function `define_question_kind`
 
 `input`: 
+
 Text box: This will be fully filled into the Text box
 
 Check box: any option that contains it in the title will be checked
