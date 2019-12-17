@@ -22,7 +22,9 @@ Auto fill your personal info to wjx.cn using selenium.webdriver
 
 `input`: 
 Text box: This will be fully filled into the Text box
+
 Check box: any option that contains it in the title will be checked
+
 Selector: any option that contains it in the option will be selected
 
 # Configuration Example
