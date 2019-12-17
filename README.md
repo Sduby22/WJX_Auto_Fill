@@ -34,13 +34,6 @@ Selector: any option that contains it in the option will be selected
             "名字"
         ],
         "input": "Sduby22"
-    },
-    "手机": {
-        "key_words": [
-            "手机",
-            "电话"
-        ],
-        "input": "13322223333"
     }
 }
 ```
