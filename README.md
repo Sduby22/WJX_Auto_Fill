@@ -11,8 +11,8 @@ Auto fill your personal info to wjx.cn using selenium.webdriver
 2. underline text box
 
 # How to use
-1. Download the .py file and .json file
-2. Change the config_example.json to config.json after configuration
+1. Download the `.py` file and `.json` file
+2. Change the `config_example.json` to `config.json` after configuration
 3. Fill the sheets of wjx.cn in 1 sec LOL
 
 # Configuration Guide
