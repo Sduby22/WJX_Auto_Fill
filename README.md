@@ -1,5 +1,7 @@
 # WJX_Auto_Fill
 Auto fill your personal info to wjx.cn using selenium.webdriver
+It only supports Chrome
+Support update for other browsers will not be considered since I'm lazy and I don't use any but Chrome
 
 # It supports..
 1. Text box
@@ -11,9 +13,11 @@ Auto fill your personal info to wjx.cn using selenium.webdriver
 2. underline text box
 
 # How to use
-1. Download the `.py` file and `.json` file
-2. Change the `config_example.json` to `config.json` after configuration
-3. Fill the sheets of wjx.cn in 1 sec LOL
+1. Install [WebDriver for Chrome](https://chromedriver.chromium.org/downloads) and add it to PATH
+2. `pip install ujson selenium`
+3. Download the `.py` file and `.json` file
+4. Change the `config_example.json` to `config.json` after configuration
+5. Fill the sheets of wjx.cn in 1 sec LOL
 
 # Configuration Guide
 `The content of a Question`: It means the major content of the question and determains what kind of info to input
