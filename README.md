@@ -20,6 +20,15 @@ Support update for other browsers will not be considered since I'm lazy and I do
 5. Fill the sheets of wjx.cn in 1 sec LOL
 
 ### Configuration Guide
+    {
+        "The content of a Question": {
+            "key_words": [
+                "Keyword1",
+                "Keyword2"
+            ],
+            "input": "What do u want to input?"
+        }
+    }
 `The content of a Question`: It means the major content of the question and determains what kind of info to input
 
 `key_words`: If the one of the key_words appears in the title, we determine that the corresponding content(key) should be the return value of the function `define_question_kind`
